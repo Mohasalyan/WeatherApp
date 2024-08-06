@@ -29,7 +29,7 @@ The Weather App is a visually appealing and interactive application that provide
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Mohasalyan/WeatherApp.git
    
 ## Code Explanation
 
