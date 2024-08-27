@@ -90,7 +90,7 @@ The favorite cities feature allows users to maintain a list of their favorite ci
 1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
 2. Set the API key in the project configuration:
    ```cpp
-   std::string apiKey = "YOUR_API_KEY";
+   std::string apiKey = "fca1d27d648fbdf79758043a64459748";
 3. Ensure the credentials.txt file is present in the project directory with the following format:
    ```cpp
    username
